@@ -1,6 +1,3 @@
-
-
-<!DOCTYPE html>
 <html lang="ru">
 </html>
 <head>
@@ -8830,4 +8827,4 @@ function initInteractive() {
 }
 </script>
 </body>
-</html>
+
